@@ -15,12 +15,10 @@ Here are some ideas to get you started:
 
 <!-- My Portfolio: [https://matifandy8.github.io/Portfolio-Page/](https://matifandy8.github.io/Portfolio-Page/) -->
 
-[<img alt="portfolio link"/>](https://matifandy8.github.io/Portfolio-Page/) 
+[<img alt="portfolio link" src="https://img.shields.io/badge/My%20Portfolio-https%3A%2F%2Fmatifandy8-brightgreen" />](https://matifandy8.github.io/Portfolio-Page/) 
 
 
-[<img alt="resume link" src="https://img.shields.io/badge/My%20CV-Download%20my%20Resume-blue" />](https://tanaytoshniwal.me/assets/tanay-toshniwal-resume.pdf)
-
-[<img alt="email" src="https://img.shields.io/badge/Email%20me-matifandy@gmail.com98%40gmail.me-orange" />](mailto:matifandy@gmail.com) 
+[<img alt="email" src="https://img.shields.io/badge/Email%20me-matifandy@gmail.com98%4-orange" />](mailto:matifandy@gmail.com) 
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/matifandy8?label=Follow%20Me&style=social" />
 
