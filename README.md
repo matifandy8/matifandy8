@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 [<img alt="resume link" src="https://img.shields.io/badge/My%20CV-Download%20my%20Resume-blue" />](https://tanaytoshniwal.me/assets/tanay-toshniwal-resume.pdf)
 
-[<img alt="email" src="https://img.shields.io/badge/Email%20me-tanaytoshniwal98%40gmail.me-orange" />](mailto:matifandy@gmail.com) 
+[<img alt="email" src="https://img.shields.io/badge/Email%20me-matifandy@gmail.com98%40gmail.me-orange" />](mailto:matifandy@gmail.com) 
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/matifandy8?label=Follow%20Me&style=social" />
 
