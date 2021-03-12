@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently learning Typescript,Next.js and Data Structures
-- 💬 Ask me about JavaScript
+- 💬 Ask me about JavaScript and programming
 - 🤔 Exploring new technologies and developing software solutions and quick hacks.
 
 ---------------------------------------------------
