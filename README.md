@@ -1,7 +1,7 @@
 ### Hi there I'm Matias Fandiño Web Developer👋
 
 
-- 🌱 I’m currently learning Typescript,Next.js and Data Structures
+- 🌱 I’m currently learning Typescript and Next.js
 - 💬 Ask me about JavaScript and programming
 - 🤔 Exploring new technologies and developing software solutions and quick hacks.
 
