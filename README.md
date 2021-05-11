@@ -1,7 +1,7 @@
 ### Hi there I'm Matias Fandiño Web Developer👋
 
 
-- 🌱 I’m currently working in my portfolio with Nextjs
+- 🌱 I’m currently working in my portfolio with Nextjs and learning Postgresql,Sequelize
 - 💬 Ask me about JavaScript,ReactJs and programming
 - 🤔 Exploring new technologies and developing software solutions and quick hacks.
 
