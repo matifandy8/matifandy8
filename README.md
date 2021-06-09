@@ -1,7 +1,7 @@
 ### Hi there I'm Matias Fandiño Web Developer👋
 
 
-- 🌱 I’m currently working in Jobox a portal job with github api and learning Postgresql,Sequelize
+- 🌱 I’m currently working in Jobox a portal job with React,Typescript in the backend Nodejs,Expresjs and PostgreSQL
 - 💬 Ask me about JavaScript,ReactJs and programming
 - 🤔 Exploring new technologies and developing software solutions and quick hacks.
 
