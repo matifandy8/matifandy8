@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Matias</h1>
 <h3 align="center">A passionate frontend developer from Uruguay</h3>
 
-- 🔭 I’m currently working on [Jobox](https://github.com/matifandy8/job-portal)
+<!-- - 🔭 I’m currently working on [Jobox](https://github.com/matifandy8/job-portal)
 
-- 🌱 I’m currently learning **Chackra ui**
+- 🌱 I’m currently learning **Chackra ui** -->
 
 - 👨‍💻 All of my projects are available at [https://mf-portfolio-matifandy8.vercel.app/](https://mf-portfolio-matifandy8.vercel.app/)
 
