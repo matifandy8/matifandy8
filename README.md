@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Chackra ui** -->
 
-- 👨‍💻 All of my projects are available at [https://mf-portfolio-matifandy8.vercel.app/](https://mf-portfolio-matifandy8.vercel.app/)
+- 👨‍💻My projects are available at [https://mf-portfolio-matifandy8.vercel.app/](https://mf-portfolio-matifandy8.vercel.app/)
 
-- 💬 Ask me about **Javascript,ReactJs**
+- 💬 Ask me about **Javascript,ReactJs,Typescript**
 
 - 📫 How to reach me **matifandy@gmail.com**
 
