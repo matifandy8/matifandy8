@@ -7,7 +7,6 @@ Frontend developer
 * 🌍  I'm based in Uruguay
 * 🖥️  See my portfolio at [https://portfolio-terminal.vercel.app/](http://portfolio-terminal.vercel.app/)
 * ✉️  You can contact me at [matifandy@gmail.com](mailto:matifandy@gmail.com)
-* 🚀  I'm currently working on [Mat-tickets](http://github.com/matifandy8/Mat-tickets)
 * 🤝  I'm open to collaborating on Interesting projects
 
 ### Skills
