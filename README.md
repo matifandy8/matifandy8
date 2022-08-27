@@ -5,7 +5,7 @@ Frontend developer
 ------------------
 
 * 🌍  I'm based in Uruguay
-* 🖥️  See my portfolio at [https://portfolio-terminal.vercel.app/](http://portfolio-terminal.vercel.app/) or [https://portfolio-landing-zeta.vercel.app/](https://portfolio-landing-zeta.vercel.app/)
+* 🖥️  See my portfolio at [https://portfolio-terminal.vercel.app/](http://portfolio-terminal.vercel.app/) or [https://portfolio-mf.vercel.app/](https://portfolio-mf.vercel.app/)
 * ✉️  You can contact me at [matifandy@gmail.com](mailto:matifandy@gmail.com)
 * 🤝  I'm open to collaborating on Interesting projects
 
