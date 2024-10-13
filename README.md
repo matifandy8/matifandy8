@@ -5,7 +5,7 @@ Frontend developer
 ------------------
 
 * 🌍  I'm based in Uruguay
-* 🖥️  See my portfolio at https://matias-fandino.vercel.app/ or [https://portfolio-mf.vercel.app/](https://portfolio-mf.vercel.app/)
+* 🖥️  See my portfolio at https://matias-fandino.vercel.app/
 * ✉️  You can contact me at [matifandy@gmail.com](mailto:matifandy@gmail.com)
 * 🤝  I'm open to collaborating on Interesting projects
 
