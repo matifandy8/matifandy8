@@ -69,11 +69,4 @@ I’m a frontend developer focused on building modern, scalable, and user-friend
 </a>
 </p>
 
-### GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=matifandy8&show_icons=true&count_private=true&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=matifandy8&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matifandy8&langs_count=10&hide_border=true&custom_title=Top%20Languages" />
 
