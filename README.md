@@ -71,14 +71,9 @@ I’m a frontend developer focused on building modern, scalable, and user-friend
 
 ### GitHub Stats
 
-<a href="http://www.github.com/matifandy8">
-  <img src="https://github-readme-stats.vercel.app/api?username=matifandy8&show_icons=true&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=171717&hide_border=true" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=matifandy8&show_icons=true&count_private=true&hide_border=true" />
 
-<a href="http://www.github.com/matifandy8">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matifandy8&background=171717&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=matifandy8&hide_border=true" />
 
-<a href="https://github.com/matifandy8">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matifandy8&langs_count=10&bg_color=171717&text_color=ffffff&title_color=ffffff&hide_border=true&custom_title=Top%20Languages" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matifandy8&langs_count=10&hide_border=true&custom_title=Top%20Languages" />
+
